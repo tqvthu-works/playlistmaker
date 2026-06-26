@@ -1,0 +1,41 @@
+[Script Info]
+Title: Tracklist
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TrackBase,Playfair Display,38,&H00DCBED2&,&H00DCBED2&,&H00000000&,&H00000000&,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: TrackHi,Playfair Display,38,&H00F7E6FF&,&H00F7E6FF&,&H00000000&,&H00000000&,-1,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: SubBase,Cormorant Garamond,30,&H00DCBED2&,&H00DCBED2&,&H00000000&,&H00000000&,0,1,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: SubHi,Cormorant Garamond,30,&H00EFD1FF&,&H00EFD1FF&,&H00000000&,&H00000000&,-1,1,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,TrackBase,,0,0,0,,{\pos(145,410)}1. Tình Yêu Anh Dành Hết Cho Em
+Dialogue: 0,0:00:00.00,0:01:00.00,TrackHi,,0,0,0,,{\pos(145,410)}1. Tình Yêu Anh Dành Hết Cho Em
+Dialogue: 0,0:01:00.00,0:10:00.00,TrackBase,,0,0,0,,{\pos(145,410)}1. Tình Yêu Anh Dành Hết Cho Em
+Dialogue: 0,0:00:00.00,0:00:00.00,SubBase,,0,0,0,,{\pos(173,454)}(Bóng Dáng Thiên Thần)
+Dialogue: 0,0:00:00.00,0:01:00.00,SubHi,,0,0,0,,{\pos(173,454)}(Bóng Dáng Thiên Thần)
+Dialogue: 0,0:01:00.00,0:10:00.00,SubBase,,0,0,0,,{\pos(173,454)}(Bóng Dáng Thiên Thần)
+Dialogue: 0,0:00:00.00,0:01:00.00,TrackBase,,0,0,0,,{\pos(145,510)}2. Chỉ Vì Em Đau Lòng
+Dialogue: 0,0:01:00.00,0:02:30.00,TrackHi,,0,0,0,,{\pos(145,510)}2. Chỉ Vì Em Đau Lòng
+Dialogue: 0,0:02:30.00,0:10:00.00,TrackBase,,0,0,0,,{\pos(145,510)}2. Chỉ Vì Em Đau Lòng
+Dialogue: 0,0:00:00.00,0:01:00.00,SubBase,,0,0,0,,{\pos(173,554)}(Tình Đơn Phương 2)
+Dialogue: 0,0:01:00.00,0:02:30.00,SubHi,,0,0,0,,{\pos(173,554)}(Tình Đơn Phương 2)
+Dialogue: 0,0:02:30.00,0:10:00.00,SubBase,,0,0,0,,{\pos(173,554)}(Tình Đơn Phương 2)
+Dialogue: 0,0:00:00.00,0:02:30.00,TrackBase,,0,0,0,,{\pos(145,610)}3. Truy Mộng Nhân
+Dialogue: 0,0:02:30.00,0:04:30.00,TrackHi,,0,0,0,,{\pos(145,610)}3. Truy Mộng Nhân
+Dialogue: 0,0:04:30.00,0:10:00.00,TrackBase,,0,0,0,,{\pos(145,610)}3. Truy Mộng Nhân
+Dialogue: 0,0:00:00.00,0:04:30.00,TrackBase,,0,0,0,,{\pos(145,674)}4. Nụ Hồng Mong Manh
+Dialogue: 0,0:04:30.00,0:07:00.00,TrackHi,,0,0,0,,{\pos(145,674)}4. Nụ Hồng Mong Manh
+Dialogue: 0,0:07:00.00,0:10:00.00,TrackBase,,0,0,0,,{\pos(145,674)}4. Nụ Hồng Mong Manh
+Dialogue: 0,0:00:00.00,0:07:00.00,TrackBase,,0,0,0,,{\pos(145,738)}5. Sao Quá Mềm Lòng
+Dialogue: 0,0:07:00.00,0:10:00.00,TrackHi,,0,0,0,,{\pos(145,738)}5. Sao Quá Mềm Lòng
+Dialogue: 0,0:10:00.00,0:10:00.00,TrackBase,,0,0,0,,{\pos(145,738)}5. Sao Quá Mềm Lòng
+Dialogue: 0,0:00:00.00,0:07:00.00,SubBase,,0,0,0,,{\pos(173,782)}(Con Tim Cổ Quên Em)
+Dialogue: 0,0:07:00.00,0:10:00.00,SubHi,,0,0,0,,{\pos(173,782)}(Con Tim Cổ Quên Em)
+Dialogue: 0,0:10:00.00,0:10:00.00,SubBase,,0,0,0,,{\pos(173,782)}(Con Tim Cổ Quên Em)

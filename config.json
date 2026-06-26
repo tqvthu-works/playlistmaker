@@ -1,0 +1,17 @@
+{
+  "title": "Danh sách bài hát",
+  "output": "playlist.ass",
+  "font_name": "Arial",
+  "font_size": 22,
+  "position": {
+    "x": 50,
+    "y": 50
+  },
+  "line_height": 35,
+  "color_normal": "#888888",
+  "color_highlight": "#FFFFFF",
+  "songs": [
+    { "name": "Bài hát 1", "start": "00:01:00", "end": "00:03:00" },
+    { "name": "Bài hát 2", "start": "00:03:00", "end": "00:05:00" }
+  ]
+}
