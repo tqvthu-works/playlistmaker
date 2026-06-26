@@ -1,17 +1,28 @@
 {
-  "title": "Danh sách bài hát",
-  "output": "playlist.ass",
-  "font_name": "Arial",
-  "font_size": 22,
-  "position": {
-    "x": 50,
-    "y": 50
+  "output": "tracklist.ass",
+  "resolution": [1920, 1080],
+  "tracks": [
+    {"title": "Tình Yêu Anh Dành Hết Cho Em", "sub": "(Bóng Dáng Thiên Thần)", "duration": "00:01:00"},
+    {"title": "Chỉ Vì Em Đau Lòng", "sub": "(Tình Đơn Phương 2)", "duration": "00:01:30"},
+    {"title": "Truy Mộng Nhân", "sub": null, "duration": "00:02:00"},
+    {"title": "Nụ Hồng Mong Manh", "sub": null, "duration": "00:02:30"},
+    {"title": "Sao Quá Mềm Lòng", "sub": "(Con Tim Cổ Quên Em)", "duration": "00:03:00"}
+  ],
+  "layout": {
+    "x": 145,
+    "y_start": 410,
+    "line_height": 100,
+    "line_height_no_sub": 64,
+    "sub_y_offset": 44
   },
-  "line_height": 35,
-  "color_normal": "#888888",
-  "color_highlight": "#FFFFFF",
-  "songs": [
-    { "name": "Bài hát 1", "start": "00:01:00", "end": "00:03:00" },
-    { "name": "Bài hát 2", "start": "00:03:00", "end": "00:05:00" }
-  ]
+  "fonts": {
+    "title": "Playfair Display",
+    "sub": "Cormorant Garamond"
+  },
+  "colors": {
+    "base": "D2BEDC",
+    "hilight": "FFE6F7",
+    "sub_base": "D2BEDC",
+    "sub_hilight": "FFD1EF"
+  }
 }
